@@ -6,10 +6,20 @@
 
 
 ## SOFTWARE
+#### PROGRAMS FOR MOTION-DESIGN AND 3D DESIGN
 ![ADOBE AFTER EFFECTS](https://img.shields.io/badge/ADOBE%20AFTER%20EFFECTS-5b4b41?style=flat&logo=adobe%20after%20effects)
 ![ADOBE PHOTOSHOP](https://img.shields.io/badge/ADOBE%20PHOTOSHOP-5b4b41?style=flat&logo=adobe%20photoshop)
 ![ADOBE ILLUSTRATOR](https://img.shields.io/badge/ADOBE%20ILLUSTRATOR-5b4b41?style=flat&logo=adobe%20illustrator)
 ![CINEMA 4D](https://img.shields.io/badge/CINEMA%204D-5b4b41?style=flat&logo=cinema%204D)
+#### MICROSOFT PRODUCTS
+![MICROSOFT EXCEL](https://img.shields.io/badge/MICROSOFT%20EXCEL-5b4b41?style=flat&logo=microsoft%20excel)
+![MICROSOFT WORD](https://img.shields.io/badge/MICROSOFT%20WORD-5b4b41?style=flat&logo=microsoft%20word)
+![MICROSOFT POWERPOINT](https://img.shields.io/badge/MICROSOFT%20POWERPOINT-5b4b41?style=flat&logo=microsoft%20powerpoint)
+![MICROSOFT EXCEL](https://img.shields.io/badge/MICROSOFT%20EXCEL-5b4b41?style=flat&logo=microsoft%20excel)
+#### GOOGLE PRODUCTS
+![GOOGLE SHEETS](https://img.shields.io/badge/GOOGLE%20SHEETS-5b4b41?style=flat&logo=google)
+![GOOGLE DOCS](https://img.shields.io/badge/GOOGLE%20DOCS-5b4b41?style=flat&logo=google)
+![GOOGLE SLIDES](https://img.shields.io/badge/GOOGLE%20SLIDES-5b4b41?style=flat&logo=google)
 
 ## LANGUAGES
 ![PYTHON](https://img.shields.io/badge/PYTHON-5b4b41?style=flat&logo=python)
