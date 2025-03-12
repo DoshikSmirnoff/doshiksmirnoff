@@ -1,4 +1,5 @@
 ## HEADER
+![HEADER IMAGE](https://img.freepik.com/free-vector/cute-capibara-character-different-poses_107791-30689.jpg?t=st=1741777107~exp=1741780707~hmac=f2dcf8f5a1ff6c008e3cda9cad98dde819c05e99c7ab4470f839b57f3af717bf&w=2000)
 
 ## ABOUT ME
 ###### *I am a vet who decided to start coding!* <br>
@@ -22,8 +23,8 @@
 ![GOOGLE SLIDES](https://img.shields.io/badge/GOOGLE%20SLIDES-5b4b41?style=flat&logo=google)
 
 ## LANGUAGES
-![PYTHON](https://img.shields.io/badge/PYTHON-5b4b41?style=flat&logo=python)
-![SWIFT](https://img.shields.io/badge/SWIFT-5b4b41?style=flat&logo=swift)
+![PYTHON](https://img.shields.io/badge/PYTHON-5b4b41?style=flat&logo=python&logoColor=FFFF00)
+![SWIFT](https://img.shields.io/badge/SWIFT-5b4b41?style=flat&logo=swift&logoColor=ED6136)
 
 ## FOLLOW ME
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-5b4b41?style=flat&logo=telegram)](https://t.me/scooooodeeeeez)
