@@ -23,6 +23,13 @@
 ## :herb: LANGUAGES :herb:
 ![PYTHON](https://img.shields.io/badge/PYTHON-5b4b41?style=flat&logo=python&logoColor=FFFF00)
 ![SWIFT](https://img.shields.io/badge/SWIFT-5b4b41?style=flat&logo=swift&logoColor=ED6136)
+<br>
+
+<a href="https://github.com/doshiksmirnoff">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doshiksmirnoff&hide=html,css&title_color=FFFFFF&text_color=F6F2EC&icon_color=ED6136&bg_color=5b4b41" />
+</a>
+
+<br>
 
 ## :herb: FOLLOW ME :herb:
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-5b4b41?style=flat&logo=telegram)](https://t.me/scooooodeeeeez)
