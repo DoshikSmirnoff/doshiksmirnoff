@@ -1,4 +1,3 @@
-## HEADER
 ![HEADER IMAGE](https://img.freepik.com/free-vector/cute-capibara-character-different-poses_107791-30689.jpg?t=st=1741777107~exp=1741780707~hmac=f2dcf8f5a1ff6c008e3cda9cad98dde819c05e99c7ab4470f839b57f3af717bf&w=2000)
 
 ## ABOUT ME
