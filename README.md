@@ -1,4 +1,4 @@
-![HEADER IMAGE](https://img.freepik.com/free-vector/cute-capibara-character-different-poses_107791-30689.jpg?t=st=1741777107~exp=1741780707~hmac=f2dcf8f5a1ff6c008e3cda9cad98dde819c05e99c7ab4470f839b57f3af717bf&w=2000)
+![HEADER IMAGE](https://img.freepik.com/free-psd/beautiful-wolf-isolated_23-2151833871.jpg?t=st=1741777626~exp=1741781226~hmac=7ba998f82fee137e957c8b523240b9fe47783981c4b3d31162041c7321dd751b&w=2000)
 
 ## ABOUT ME
 ###### *I am a vet who decided to start coding!* <br>
