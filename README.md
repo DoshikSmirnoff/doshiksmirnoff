@@ -1,5 +1,9 @@
 ![HEADER IMAGE](https://img.freepik.com/free-psd/beautiful-wolf-isolated_23-2151833871.jpg?t=st=1741777626~exp=1741781226~hmac=7ba998f82fee137e957c8b523240b9fe47783981c4b3d31162041c7321dd751b&w=2000)
 
+<div id="profile_views" align="left">
+    <img src="https://komarev.com/ghpvc/?username=DoshikSmirnoff&label=PROFILE+VIEWS&style=badge&color=5b4b41" alt=""/>
+</div>
+
 ## :herb: ABOUT ME :herb:
 ###### *I am a vet who decided to start coding!* <br>
 ###### *You are welcome on my page on GitHub!*
