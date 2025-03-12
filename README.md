@@ -6,7 +6,7 @@
 
 ## :herb: ABOUT ME :herb:
 ###### *I am a vet who decided to start coding!* <br>
-###### *You are welcome on my page on GitHub!*
+###### *You are welcome on my GitHub page!*
 
 
 ## :herb: SOFTWARE :herb:
