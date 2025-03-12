@@ -15,7 +15,6 @@
 ![MICROSOFT EXCEL](https://img.shields.io/badge/MICROSOFT%20EXCEL-5b4b41?style=flat&logo=microsoft%20excel)
 ![MICROSOFT WORD](https://img.shields.io/badge/MICROSOFT%20WORD-5b4b41?style=flat&logo=microsoft%20word)
 ![MICROSOFT POWERPOINT](https://img.shields.io/badge/MICROSOFT%20POWERPOINT-5b4b41?style=flat&logo=microsoft%20powerpoint)
-![MICROSOFT EXCEL](https://img.shields.io/badge/MICROSOFT%20EXCEL-5b4b41?style=flat&logo=microsoft%20excel)
 #### GOOGLE PRODUCTS
 ![GOOGLE SHEETS](https://img.shields.io/badge/GOOGLE%20SHEETS-5b4b41?style=flat&logo=google)
 ![GOOGLE DOCS](https://img.shields.io/badge/GOOGLE%20DOCS-5b4b41?style=flat&logo=google)
