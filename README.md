@@ -1,4 +1,4 @@
-![HEADER IMAGE](https://img.freepik.com/free-psd/beautiful-wolf-isolated_23-2151833871.jpg?t=st=1741777626~exp=1741781226~hmac=7ba998f82fee137e957c8b523240b9fe47783981c4b3d31162041c7321dd751b&w=2000)
+![HEADER IMAGE](https://github.com/DoshikSmirnoff/doshiksmirnoff/blob/main/Images/331449706_11417336.png)
 
 <div id="profile_views" align="left">
     <img src="https://komarev.com/ghpvc/?username=DoshikSmirnoff&label=PROFILE+VIEWS&style=badge&color=5b4b41" alt=""/>
