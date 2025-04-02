@@ -11,22 +11,87 @@
 
 ## :herb: SOFTWARE :herb:
 #### PROGRAMS FOR MOTION-DESIGN AND 3D DESIGN
-![ADOBE AFTER EFFECTS](https://img.shields.io/badge/ADOBE%20AFTER%20EFFECTS-5b4b41?style=flat&logo=adobe%20after%20effects)
-![ADOBE PHOTOSHOP](https://img.shields.io/badge/ADOBE%20PHOTOSHOP-5b4b41?style=flat&logo=adobe%20photoshop)
-![ADOBE ILLUSTRATOR](https://img.shields.io/badge/ADOBE%20ILLUSTRATOR-5b4b41?style=flat&logo=adobe%20illustrator)
-![CINEMA 4D](https://img.shields.io/badge/CINEMA%204D-5b4b41?style=flat&logo=cinema%204D)
+<p style="display: flex; align-items: center;">
+    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
+        <img src="Images/adobe-after-effects-svgrepo-com.svg" alt="ADOBE AFTER EFFECTS" width="18" height="18" style="display: block;">
+        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">ADOBE AFTER EFFECTS</span>
+    </span>
+</p>
+
+<p style="display: flex; align-items: center;">
+    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
+        <img src="Images/adobe-photoshop-svgrepo-com.svg" alt="ADOBE PHOTOSHOP" width="18" height="18" style="display: block;">
+        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">ADOBE PHOTOSHOP</span>
+    </span>
+</p>
+<p style="display: flex; align-items: center;">
+    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
+        <img src="Images/adobe-illustrator-svgrepo-com.svg" alt="ADOBE ILLUSTRATOR" width="18" height="18" style="display: block;">
+        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">ADOBE ILLUSTRATOR</span>
+    </span>
+</p>
+<p style="display: flex; align-items: center;">
+    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
+        <img src="Images/icons8-кино-4д.svg" alt="CINEMA 4D" width="18" height="18" style="display: block;">
+        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">CINEMA 4D</span>
+    </span>
+</p>
+
 #### MICROSOFT PRODUCTS
-![MICROSOFT EXCEL](https://img.shields.io/badge/MICROSOFT%20EXCEL-5b4b41?style=flat&logo=microsoft%20excel)
-![MICROSOFT WORD](https://img.shields.io/badge/MICROSOFT%20WORD-5b4b41?style=flat&logo=microsoft%20word)
-![MICROSOFT POWERPOINT](https://img.shields.io/badge/MICROSOFT%20POWERPOINT-5b4b41?style=flat&logo=microsoft%20powerpoint)
+
+<p style="display: flex; align-items: center;">
+    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
+        <img src="Images/excel-svgrepo-com.svg" alt="MICROSOFT EXCEL" width="18" height="18" style="display: block;">
+        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">MICROSOFT EXCEL</span>
+    </span>
+</p>
+<p style="display: flex; align-items: center;">
+    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
+        <img src="Images/word-svgrepo-com.svg" alt="MICROSOFT WORD" width="18" height="18" style="display: block;">
+        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">MICROSOFT WORD</span>
+    </span>
+</p>
+<p style="display: flex; align-items: center;">
+    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
+        <img src="Images/powerpoint-svgrepo-com.svg" alt="MICROSOFT POWERPOINT" width="18" height="18" style="display: block;">
+        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">MICROSOFT POWERPOINT</span>
+    </span>
+</p>
+
 #### GOOGLE PRODUCTS
-![GOOGLE SHEETS](https://img.shields.io/badge/GOOGLE%20SHEETS-5b4b41?style=flat&logo=google)
-![GOOGLE DOCS](https://img.shields.io/badge/GOOGLE%20DOCS-5b4b41?style=flat&logo=google)
-![GOOGLE SLIDES](https://img.shields.io/badge/GOOGLE%20SLIDES-5b4b41?style=flat&logo=google)
+
+<p style="display: flex; align-items: center;">
+    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
+        <img src="Images/google-color-svgrepo-com.svg" alt="GOOGLE SHEETS" width="18" height="18" style="display: block;">
+        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">GOOGLE SHEETS</span>
+    </span>
+</p>
+<p style="display: flex; align-items: center;">
+    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
+        <img src="Images/google-color-svgrepo-com.svg" alt="GOOGLE DOCS" width="18" height="18" style="display: block;">
+        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">GOOGLE DOCS</span>
+    </span>
+</p>
+<p style="display: flex; align-items: center;">
+    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
+        <img src="Images/google-color-svgrepo-com.svg" alt="GOOGLE SLIDES" width="18" height="18" style="display: block;">
+        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">GOOGLE SLIDES</span>
+    </span>
+</p>
 
 ## :herb: LANGUAGES :herb:
-![PYTHON](https://img.shields.io/badge/PYTHON-5b4b41?style=flat&logo=python&logoColor=306998)
-![SWIFT](https://img.shields.io/badge/SWIFT-5b4b41?style=flat&logo=swift&logoColor=ED6136)
+<p style="display: flex; align-items: center;">
+    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
+        <img src="Images/python-svgrepo-com.svg" alt="PYTHON" width="18" height="18" style="display: block;">
+        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">PYTHON</span>
+    </span>
+</p>
+<p style="display: flex; align-items: center;">
+    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
+        <img src="Images/swift-svgrepo-com.svg" alt="SWIFT" width="18" height="18" style="display: block;">
+        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">SWIFT</span>
+    </span>
+</p>
 <br>
 
 <a href="https://github.com/DoshikSmirnoff">
