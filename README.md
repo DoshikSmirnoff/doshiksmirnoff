@@ -11,71 +11,31 @@
 
 ## :herb: SOFTWARE :herb:
 #### PROGRAMS FOR MOTION-DESIGN AND 3D DESIGN
-<p style="display: flex; align-items: center;">
-    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
-        <img src="Images/adobe-after-effects-svgrepo-com.svg" alt="ADOBE AFTER EFFECTS" width="18" height="12" style="display: block;">
-        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">ADOBE AFTER EFFECTS</span>
-        <img src="Images/adobe-photoshop-svgrepo-com.svg" alt="ADOBE PHOTOSHOP" width="18" height="12" style="display: block;">
-        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">ADOBE PHOTOSHOP</span>
-         <img src="Images/adobe-illustrator-svgrepo-com.svg" alt="ADOBE ILLUSTRATOR" width="18" height="12" style="display: block;">
-        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">ADOBE ILLUSTRATOR</span>
-        <img src="Images/icons8-кино-4д.svg" alt="CINEMA 4D" width="18" height="12" style="display: block;">
-        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">CINEMA 4D</span>
-    </span>
-</p>
+[ADOBE PHOTOSHOP](https://img.shields.io/badge/Adobe-5b4b41?style=flat&logo=photoshop)]
+[ADOBE AFTER EFFECTS](https://img.shields.io/badge/Adobe-5b4b41?style=flat&logo=after_effects)]
+[ADOBE ILLUSTRATOR](https://img.shields.io/badge/Adobe-5b4b41?style=flat&logo=illustrator)]
+[CINEMA 4D](https://img.shields.io/badge/Adobe-5b4b41?style=flat&logo=cinema_4d)]
 
 #### MICROSOFT PRODUCTS
+[MICROSOFT EXCEL](https://img.shields.io/badge/Microsoft-5b4b41?style=flat&logo=microsoft_excel)]
+[MICROSOFT WORD](https://img.shields.io/badge/Microsoft-5b4b41?style=flat&logo=microsoft_word)]
+[MICROSOFT POWERPOINT](https://img.shields.io/badge/Microsoft-5b4b41?style=flat&logo=microsoft_powerpoint)]
 
-<p style="display: flex; align-items: center;">
-    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
-        <img src="Images/excel-svgrepo-com.svg" alt="MICROSOFT EXCEL" width="18" height="12" style="display: block;">
-        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">MICROSOFT EXCEL</span>
-        <img src="Images/word-svgrepo-com.svg" alt="MICROSOFT WORD" width="18" height="12" style="display: block;">
-        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">MICROSOFT WORD</span>
-        <img src="Images/powerpoint-svgrepo-com.svg" alt="MICROSOFT POWERPOINT" width="18" height="12" style="display: block;">
-        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">MICROSOFT POWERPOINT</span>
-    </span>
-</p>
+
 
 #### GOOGLE PRODUCTS
-
-<p style="display: flex; align-items: center;">
-    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
-        <img src="Images/google-color-svgrepo-com.svg" alt="GOOGLE SHEETS" width="18" height="12" style="display: block;">
-        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">GOOGLE SHEETS</span>
-        <img src="Images/google-color-svgrepo-com.svg" alt="GOOGLE DOCS" width="18" height="12" style="display: block;">
-        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">GOOGLE DOCS</span>
-        <img src="Images/google-color-svgrepo-com.svg" alt="GOOGLE SLIDES" width="18" height="12" style="display: block;">
-        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">GOOGLE SLIDES</span>
-    </span>
-</p>
+[GOOGLE SHEETS](https://img.shields.io/badge/Google-5b4b41?style=flat&logo=Google)]
+[GOOGLE DOCS](https://img.shields.io/badge/Google-5b4b41?style=flat&logo=Google)]
+[GOOGLE SLIDES](https://img.shields.io/badge/Google-5b4b41?style=flat&logo=Google)]
 
 ## :herb: LANGUAGES :herb:
-<p style="display: flex; align-items: center;">
-    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
-        <img src="Images/python-svgrepo-com.svg" alt="PYTHON" width="18" height="13" style="display: block;">
-        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">PYTHON</span>
-    </span>
-</p>
-<p style="display: flex; align-items: center;">
-    <span style="display: flex; align-items: center; background-color: #5b4b41; padding: 1px 4px; border-radius: 4px; height: 20px;">
-        <img src="Images/swift-svgrepo-com.svg" alt="SWIFT" width="18" height="13" style="display: block;">
-        <span style="font-size: 12px; font-weight: normal; margin-left: 5px; margin-top: 1px; margin-bottom: 1px; line-height: 1; color: white;">SWIFT</span>
-    </span>
-</p>
-<br>
+[PYTHON](https://img.shields.io/badge/PYTHON-5b4b41?style=flat&logo=python)]
+[SWIFT](https://img.shields.io/badge/SWIFT-5b4b41?style=flat&logo=SWIFT)]
 
-<a href="https://github.com/DoshikSmirnoff">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doshiksmirnoff&hide=html,css&title_color=FFFFFF&text_color=F6F2EC&icon_color=ED6136&bg_color=5B4B41" />
-</a>
-
-<br>
-<br>
+## :herb: MY STATS :herb:
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=doshiksmirnoff&show_icons=true&count_private=true&bg_color=5b4b41&title_color=FFFFFF&text_color=F6F2EC&icon_color=ED6136)
 
 ## :herb: FOLLOW ME :herb:
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-5b4b41?style=flat&logo=telegram)](https://t.me/scooooodeeeeez)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-5b4b41?style=flat&logo=instagram&logoColor=FF1493)](https://www.instagram.com/scooooodeeeeez)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-5b4b41?style=flat&logo=Vk&logoColor=4285B4)](https://vk.com/scooooodeeeeez)
-
-## :herb: MY STATS :herb:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=doshiksmirnoff&show_icons=true&count_private=true&bg_color=5b4b41&title_color=FFFFFF&text_color=F6F2EC&icon_color=ED6136)
